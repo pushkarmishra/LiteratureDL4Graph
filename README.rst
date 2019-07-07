@@ -600,6 +600,11 @@ Natural Language Processing
 <https://www.aclweb.org/anthology/N18-2078>`_
     | :author:`Diego Marcheggiani, Joost Bastings, Ivan Titov`
     | :venue:`NAACL 2018`
+    
+`Author Profiling for Abuse Detection
+<https://www.aclweb.org/anthology/C18-1093>`_
+    | :author:`Pushkar Mishra, Marco Del Tredici, Helen Yannakoudakis, Ekaterina Shutova`
+    | :venue:`COLING 2018`
 
 `Linguistically-Informed Self-Attention for Semantic Role Labeling
 <https://www.aclweb.org/anthology/D18-1548>`_
@@ -640,6 +645,11 @@ Natural Language Processing
 <https://arxiv.org/pdf/1811.10211.pdf>`_
     | :author:`Pengfei Liu, Jie Fu, Yue Dong, Xipeng Qiu, Jackie Chi Kit Cheung`
     | :venue:`AAAI 2019`
+
+`Abusive Language Detection with Graph Convolutional Networks
+<https://www.aclweb.org/anthology/N19-1221>`_
+    | :author:`Pushkar Mishra, Marco Del Tredici, Helen Yannakoudakis, Ekaterina Shutova`
+    | :venue:`NAACL 2019`
 
 `Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing
 <https://arxiv.org/pdf/1903.02591.pdf>`_
